@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "316286207067",
+    "project_id": "nextbank-673d1",
+    "storage_bucket": "nextbank-673d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316286207067:android:a067beb95da89b221cab7e",
+        "android_client_info": {
+          "package_name": "com.nextbank.nextbank_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvQJiB5VtT_LCHOgH4qCFffqa6EG7mVFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
